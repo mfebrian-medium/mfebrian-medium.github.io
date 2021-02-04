@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to bottom, #dd4c5d, #d65b48);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: #fff;
+}
+
+span {
+    color: #000;
+}
